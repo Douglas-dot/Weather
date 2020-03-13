@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<citys name="locations" description="城市配置">
+	<city label="大连" name="DALIAN" value="DALIAN" />
+	<city label="沈阳" name="SHENYANG" value="SHENYANG" />
+</citys>
