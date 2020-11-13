@@ -1,7 +1,7 @@
 package demo.dto;
 
 public class City {
-    private String code;
+    private String code ;
     private String name;
 
     public String getCode() {
